@@ -3,7 +3,7 @@
     "name": "Eternal Bliss",
     "brand": "LuxuryScents",
     "price": "55.00",
-    "image": "/Images/perfumeSample.jpeg"
+    "image": "perfumeSample.jpeg" 
   },
   {
     "name": "Mystical Harmony",
@@ -33,7 +33,7 @@
     "name": "Celestial Dream",
     "brand": "LuxuryScents",
     "price": "72.00",
-    "image": "/Images/perfumeSample.jpeg"
+    "image": "perfumeSample.jpeg"
   },
   {
     "name": "Velvet Whispers",
