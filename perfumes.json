@@ -1,0 +1,170 @@
+[
+  {
+    "name": "Eternal Bliss",
+    "brand": "LuxuryScents",
+    "price": "55.00",
+    "image": "/Images/perfumeSample.jpeg"
+  },
+  {
+    "name": "Mystical Harmony",
+    "brand": "Scentique",
+    "price": "65.00",
+    "image": "/Images/perfumeSample.jpeg"
+  },
+  {
+    "name": "Serene Aura",
+    "brand": "EssenceCraft",
+    "price": "48.00",
+    "image": "/Images/perfumeSample.jpeg"
+  },
+  {
+    "name": "Opulent Charm",
+    "brand": "ChicFragrance",
+    "price": "58.00",
+    "image": "perfumeSample.jpeg"
+  },
+  {
+    "name": "Enchanted Elegance",
+    "brand": "AetherScent",
+    "price": "68.00",
+    "image": "perfumeSample.jpeg"
+  },
+  {
+    "name": "Celestial Dream",
+    "brand": "LuxuryScents",
+    "price": "72.00",
+    "image": "/Images/perfumeSample.jpeg"
+  },
+  {
+    "name": "Velvet Whispers",
+    "brand": "ChicFragrance",
+    "price": "45.00",
+    "image": "perfumeSample.jpeg"
+  },
+  {
+    "name": "Timeless Allure",
+    "brand": "Scentique",
+    "price": "78.00",
+    "image": "perfumeSample.jpeg"
+  },
+  {
+    "name": "Harmonic Bloom",
+    "brand": "EssenceCraft",
+    "price": "85.00",
+    "image": "perfumeSample.jpeg"
+  },
+  {
+    "name": "Radiant Reverie",
+    "brand": "AetherScent",
+    "price": "60.00",
+    "image": "perfumeSample.jpeg"
+  },
+  {
+    "name": "Luminescent Aura",
+    "brand": "ChicFragrance",
+    "price": "70.00",
+    "image": "perfumeSample.jpeg"
+  },
+  {
+    "name": "Velvet Secrets",
+    "brand": "Scentique",
+    "price": "75.00",
+    "image": "perfumeSample.jpeg"
+  },
+  {
+    "name": "Divine Whispers",
+    "brand": "EssenceCraft",
+    "price": "50.00",
+    "image": "perfumeSample.jpeg"
+  },
+  {
+    "name": "Golden Elixir",
+    "brand": "AetherScent",
+    "price": "88.00",
+    "image": "perfumeSample.jpeg"
+  },
+  {
+    "name": "Blissful Bloom",
+    "brand": "LuxuryScents",
+    "price": "62.00",
+    "image": "perfumeSample.jpeg"
+  },
+  {
+    "name": "Whispering Winds",
+    "brand": "ChicFragrance",
+    "price": "55.00",
+    "image": "perfumeSample.jpeg"
+  },
+  {
+    "name": "Mystic Mirage",
+    "brand": "Scentique",
+    "price": "80.00",
+    "image": "perfumeSample.jpeg"
+  },
+  {
+    "name": "Crimson Elegance",
+    "brand": "EssenceCraft",
+    "price": "75.00",
+    "image": "perfumeSample.jpeg"
+  },
+  {
+    "name": "Sapphire Serenity",
+    "brand": "AetherScent",
+    "price": "70.00",
+    "image": "perfumeSample.jpeg"
+  },
+  {
+    "name": "Emerald Essence",
+    "brand": "LuxuryScents",
+    "price": "65.00",
+    "image": "perfumeSample.jpeg"
+  },
+  {
+    "name": "Amber Aura",
+    "brand": "ChicFragrance",
+    "price": "58.00",
+    "image": "perfumeSample.jpeg"
+  },
+  {
+    "name": "Rose Radiance",
+    "brand": "Scentique",
+    "price": "45.00",
+    "image": "perfumeSample.jpeg"
+  },
+  {
+    "name": "Citrine Charm",
+    "brand": "EssenceCraft",
+    "price": "55.00",
+    "image": "perfumeSample.jpeg"
+  },
+  {
+    "name": "Velvet Veil",
+    "brand": "AetherScent",
+    "price": "68.00",
+    "image": "perfumeSample.jpeg"
+  },
+  {
+    "name": "Silver Symphony",
+    "brand": "LuxuryScents",
+    "price": "62.00",
+    "image": "perfumeSample.jpeg"
+  },
+  {
+    "name": "Majestic Musk",
+    "brand": "ChicFragrance",
+    "price": "80.00",
+    "image": "perfumeSample.jpeg"
+  },
+  {
+    "name": "Oceanic Opulence",
+    "brand": "Scentique",
+    "price": "72.00",
+    "image": "perfumeSample.jpeg"
+  },
+  {
+    "name": "Ivory Elegance",
+    "brand": "EssenceCraft",
+    "price": "90.00",
+    "image": "perfumeSample.jpeg"
+  }
+]
