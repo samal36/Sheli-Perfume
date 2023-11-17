@@ -1,12 +1,5 @@
 [
   {
-    "name": "Versace Eros",
-    "brand": "Versace",
-    "price": "55.00",
-    "gender": "mens",
-    "other": null
-  },
-  {
     "name": "Aventus",
     "brand": "Creed",
     "price": "65.00",
@@ -14,82 +7,102 @@
     "other": null
   },
   {
-    "name": "Serene Aura",
-    "brand": "EssenceCraft",
+    "name": "Versace Eros",
+    "brand": "Versace",
+    "price": "55.00",
+    "gender": "mens",
+    "other": null
+  },
+  {
+    "name": "Acqua Di Gio",
+    "brand": "Giorgio Armani",
     "price": "48.00",
-    "image": "/Images/perfumeSample.jpeg"
+    "gender": "mens",
+    "other": null
   },
   {
-    "name": "Opulent Charm",
-    "brand": "ChicFragrance",
+    "name": "Tom Ford Noir Extreme",
+    "brand": "Tom Ford",
     "price": "58.00",
-    "image": "perfumeSample.jpeg"
+    "gender": "mens",
+    "other": true
   },
   {
-    "name": "Enchanted Elegance",
-    "brand": "AetherScent",
+    "name": "Prada Luna Rossa Sport",
+    "brand": "Prada",
     "price": "68.00",
-    "image": "perfumeSample.jpeg"
+    "gender": "mens",
+    "other": null
   },
   {
-    "name": "Celestial Dream",
-    "brand": "LuxuryScents",
+    "name": "Jimmy Choo Man Blue",
+    "brand": "Jimmy Choo",
     "price": "72.00",
-    "image": "perfumeSample.jpeg"
+    "gender": "mens",
+    "other": true
   },
   {
-    "name": "Velvet Whispers",
-    "brand": "ChicFragrance",
+    "name": "Sauvage",
+    "brand": "Christian Dior",
     "price": "45.00",
-    "image": "perfumeSample.jpeg"
+    "gender": "mens",
+    "other": null
   },
   {
-    "name": "Timeless Allure",
-    "brand": "Scentique",
+    "name": "Obsession",
+    "brand": "Calvin Klein",
     "price": "78.00",
-    "image": "perfumeSample.jpeg"
+    "gender": "mens",
+    "other": true
   },
   {
-    "name": "Harmonic Bloom",
-    "brand": "EssenceCraft",
+    "name": "Polo Blue",
+    "brand": "Ralph Lauren",
     "price": "85.00",
-    "image": "perfumeSample.jpeg"
+    "gender": "mens",
+    "other": null
   },
   {
-    "name": "Radiant Reverie",
-    "brand": "AetherScent",
+    "name": "The One",
+    "brand": "Dolce & Gabbana",
     "price": "60.00",
-    "image": "perfumeSample.jpeg"
+    "gender": "mens",
+    "other": null
   },
   {
     "name": "Luminescent Aura",
     "brand": "ChicFragrance",
     "price": "70.00",
-    "image": "perfumeSample.jpeg"
+    "gender": "",
+    "other": null
   },
   {
     "name": "Velvet Secrets",
     "brand": "Scentique",
     "price": "75.00",
-    "image": "perfumeSample.jpeg"
+    "gender": "",
+    "other": null
   },
   {
     "name": "Divine Whispers",
     "brand": "EssenceCraft",
     "price": "50.00",
-    "image": "perfumeSample.jpeg"
+    "gender": "",
+    "other": null
   },
   {
     "name": "Golden Elixir",
     "brand": "AetherScent",
     "price": "88.00",
-    "image": "perfumeSample.jpeg"
+    "gender": "",
+    "other": null
   },
   {
     "name": "Blissful Bloom",
     "brand": "LuxuryScents",
     "price": "62.00",
-    "image": "perfumeSample.jpeg"
+    "gender": "",
+    "other": null
   },
   {
     "name": "Whispering Winds",

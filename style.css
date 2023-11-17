@@ -44,6 +44,20 @@
     box-shadow: 0px 10px 25px 0px rgba(0, 0, 0, 0.25);
 }
 
+.card{
+    transition: transform 0.3s ease, box-shadow 0.2s ease;
+}
+
+.card:hover{
+    box-shadow: 0px 10px 25px 0px rgba(0, 0, 0, 0.25);
+    transform: translateY(-5px);
+}
+
+.card:hover #cardTitle {
+    color: #FF2996;
+}
+
+
 #cardType{
     transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
     transition-delay: 0s;
