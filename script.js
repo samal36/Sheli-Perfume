@@ -56,3 +56,33 @@ document.addEventListener('DOMContentLoaded', function () {
 });
 
 
+// Function to show the content for a specific category
+function showCategory(category) {
+    // Hide all category contents
+    var allContents = document.querySelectorAll('.category-content');
+    allContents.forEach(content => {
+        content.style.display = 'none';
+    });
+
+    // Deactivate all buttons
+    var allButtons = document.querySelectorAll('.btn-custom');
+    allButtons.forEach(button => {
+        button.classList.remove('active');
+    });
+
+    // Show the content for the selected category
+    document.getElementById(category + 'Content').style.display = 'block';
+
+    // Activate the clicked button
+    document.getElementById(category).classList.add('active');
+}
+
+// Set a default category to be displayed
+showCategory('mostPopular');
+
+
+    // Show the modal when the page is loaded
+    document.addEventListener('DOMContentLoaded', function () {
+        var myModal = new bootstrap.Modal(document.getElementById('saleModal'));
+        myModal.show();
+    });

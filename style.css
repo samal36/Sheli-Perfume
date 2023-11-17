@@ -17,6 +17,13 @@
     box-shadow: 0px 8px 25px 0px #FF2996;
 }
 
+.secondaryButton{
+    background-color: #FFB9B9; 
+    border: none;
+    transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+    transition-delay: 0s;
+}
+
 #secondaryButton{
     background-color: #FFB9B9; 
     border: none;
@@ -40,11 +47,11 @@
 #cardType{
     transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
     transition-delay: 0s;
+    width: 18rem; text-decoration: none; border: none;
 }
 
 #cardType:hover{
     color: #FF2996;
-    box-shadow: 0px 10px 25px 0px rgba(0, 0, 0, 0.25);
 }
 
 .brandsNames{
